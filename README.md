@@ -6,7 +6,7 @@
 
 # 使用
 ## Windows用户
-未添加youtube访问测速，仅通过sivel的speedtest-cli进行节点测速
+仅通过sivel的speedtest-cli进行节点测速
 
 ```
 git clone https://github.com/HaoKeee/shadowsocksr-win-speedtest.git
