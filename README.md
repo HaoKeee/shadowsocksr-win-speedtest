@@ -1,5 +1,5 @@
-
 # shadowsocksr-win-speedtest
+![](http://81.68.195.64/pic/ssr-speed-test.png)
 项目主要借鉴自mobier的shadowsocksr-speed,项目链接：https://github.com/mobier/shadowsocksr-speed
 针对自己的使用对windows版本进行了一定的修改
 所使用shadowsocksr-csharp版本:v4.9.2
