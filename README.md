@@ -12,7 +12,7 @@ ShadowsocsR文件夹内容为shadowsocksr-csharp,版本:v4.9.2,原文地址:http
 git clone https://github.com/HaoKeee/shadowsocksr-win-speedtest.git
 cd shadowsocksr-win-speedtest
 将个人已经更新订阅,需要测试的gui-config.json替换到./ShadowsocksR/gui-config.json
-打开./ShadowsocksR/ShadowsocksR-dotnet4.0.exe,修改服务器订阅设置为关闭自动更新订阅，并将选项设置中的本地端口修改为6665,推出ssr客户端
+打开./ShadowsocksR/ShadowsocksR-dotnet4.0.exe,修改服务器订阅设置为关闭自动更新订阅，并将选项设置中的本地端口修改为6665,退出ssr客户端
 python main.py
 ```
 
