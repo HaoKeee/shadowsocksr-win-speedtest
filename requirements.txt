@@ -1,0 +1,10 @@
+subprocess
+time
+os
+json
+re
+PySocks
+socks
+socket
+requests
+prettytable
